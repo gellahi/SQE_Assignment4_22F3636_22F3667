@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Student 22F3667 Performance Test Suite">
+    <test name="Performance Tests">
+        <classes>
+            <class name="com.automation.student22F3667.performance.BookLoadTestRunner"/>
+        </classes>
+    </test>
+</suite>
