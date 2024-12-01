@@ -52,6 +52,14 @@
             <artifactId>ApacheJMeter_http</artifactId>
             <version>5.6.3</version>
         </dependency>
+
+        <!-- JMeter Java -->
+        <dependency>
+            <groupId>org.apache.jmeter</groupId>
+            <artifactId>ApacheJMeter_java</artifactId>
+            <version>5.6.3</version>
+        </dependency>
+
     </dependencies>
 
 </project>
